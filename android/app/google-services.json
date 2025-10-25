@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024558465879",
+    "project_id": "abishek-car-rental-app",
+    "storage_bucket": "abishek-car-rental-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024558465879:android:642bf91e2afac2ea8df412",
+        "android_client_info": {
+          "package_name": "com.example.car_rental_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa_UiDKbWiwXa42bwwZpC09iY6jWp2vSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
